@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of treason and other high-crimes and misdemeanors against the Dutches of Portsmouth</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17236</idno><idno type="EEBO-CITATION">10826489</idno>
+  <idno type="VID">204790</idno>
+  <idno type="EEBO-PROQUEST">2248502572</idno>
+  
+            <idno type="STC">Wing A3846</idno>
+            <idno type="OCLC">10826489</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1414:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of treason and other high-crimes and misdemeanors against the Dutches of Portsmouth</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Kéroualle, Louise-Renée de, --  Duchess of Portsmouth and Aubigny, 1649-1734.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="articles">
+            <pb facs="tcp:204790:1"/>
+            <head>ARTICLES OF <hi>High-Treason and other High-Crimes and Misdemeanors</hi> AGAINST THE DUTCHES OF PORTSMOUTH.</head>
+            <p n="1">I. <hi>IMprimis,</hi> That the said Dutchess hath and still doth cohabite and keep Company with the King, ha<g ref="char:EOLhyphen"/>ving had foul nauseous and contagious Distempers, which once possessing her blood can never admit of a perfect cure, to the manifest danger and hazard of the Kings person, in whose preservation is bound up, the weal and happiness of the <hi>Protestant Religion,</hi> our Lives, Liberties and Properties, and those of our Posteri<g ref="char:EOLhyphen"/>ty for ever.</p>
+            <p n="2">II. She hath laboured to alter and subvert the Go<g ref="char:EOLhyphen"/>vernment in Church and State now establisht by Law, and in the room there of to introduce Popery and Ty<g ref="char:EOLhyphen"/>ranny in the three Kingdoms by her Counsels from time to time.</p>
+            <p n="3">III. She hath by her perswasion, countenance and other Artifices and Insinuations reconciled several of her Servants and others, natural born Subjects, to the Communion of the See of <hi>Rome,</hi> in defiance of the Statute which makes it Capital, <hi>Jac.</hi> 3.4.</p>
+            <p n="4">IV. She advised and still does nourish, foment and maintain that fatal and destructive Correspondency and Alliance between <hi>England</hi> and <hi>France.</hi> being sent over and pensioned by the <hi>French</hi> King to the same end and purpose, and consequently hath rendred ineffe<g ref="char:EOLhyphen"/>ctual those frequent Addresses in Parliament for a War with the <hi>French</hi> King, and in order to the Pro<g ref="char:EOLhyphen"/>pagating these her malitious, detestable and destru<g ref="char:EOLhyphen"/>ctive Designs, against our Religion and Government the several <hi>French</hi> Ministers, who have resided here since the breach of the Triple League, (from whence we of these three Kingdoms have and still groan un<g ref="char:EOLhyphen"/>der,) have and do still resort to her Apartment in his Majesty's Royal Palace, where having several Con<g ref="char:EOLhyphen"/>ferences with his Majesty, they have pryed into his secret Counsels, and by the Assistance of her, her A<g ref="char:EOLhyphen"/>gents and <hi>French</hi> Ministers, have fixed and continued the aforesaid accursed Amity between <hi>England</hi> and <hi>France,</hi> against the grave and repeated advice of the whole Nation in Parliament.</p>
+            <p n="5">V. That she hath endeavoured to her Fower to stifle and vilifie the King Evidence, to create a disbe<g ref="char:EOLhyphen"/>lieve of the King of the Plot against his Royal Per<g ref="char:EOLhyphen"/>son, subversion of the <hi>Protestant Religion</hi> and <hi>Govern<g ref="char:EOLhyphen"/>ment,</hi> interceded for by Traytors impeached by Par<g ref="char:EOLhyphen"/>liament and other Arch-Traytors (particularly Father <hi>Ireland</hi> the Jesuite Arraigned, heard fairly and legally condemned, and most justly executed.</p>
+            <p n="6">VI. She has from time to time intermedled and ad<g ref="char:EOLhyphen"/>vised in mraters of the highest moment and impor<g ref="char:EOLhyphen"/>tance in Government, as Peace and War, several Dis<g ref="char:EOLhyphen"/>solutions and Prorogation of Parliament, matter de<g ref="char:EOLhyphen"/>pending wherein the very life and soul of the Govern<g ref="char:EOLhyphen"/>ment in Chu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch and State was concerned.</p>
+            <p n="7">VII. That she advised a disgeneral Peace, so de<g ref="char:EOLhyphen"/>structive to <hi>Christendom</hi> and particularly to these three Kingdoms, it being in our Power to have turned the Scale.</p>
+            <p n="8">VIII. That she placed and displaced great Ministers in Church and State, as she judged might be most ser<g ref="char:EOLhyphen"/>viceable in promoting the <hi>French Popish</hi> Interest.</p>
+            <p n="9">IX. That she not only took upon her, to make chief Ministers as aforesaid but either received Sums of Mo<g ref="char:EOLhyphen"/>ney in hand, and Pension yearly out of their profits, saleries and perquisites, which hath in great measure contributed to that general corruption in all places, and nothing being more unnaturall, than when trust and places are bought; Justice must be sold.</p>
+            <p n="10">X. That she hath been an unspeakable charge and burthen, having had given her, for many years past prodigious Summs of Money in other people names, (the better to disguise the matter) as well out of the Publick Treasury, as the privy Purse; and such is her ascendant over the King, that, in her own apartment, she prevailed with the King, there to Sign and Seal Warrants for Graunts, of Vast Summs of Money, an<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> particularly procured the Kings Warrant to the Earl of <hi>Danby</hi> (now-Impeached and in the Tower) for 100000 <hi>l.</hi> and this at one time, which ought to have been applied for the safty, honour and reputation of this Kingdom.</p>
+            <p n="11">XI. That hardly and Grant, Office of Place was gi<g ref="char:EOLhyphen"/>ven, but through her or her Emissaries Intercession and money given to them.</p>
+            <p n="12">XII. Those vast, prodigious Sums she hath for the most part, was to be transported to a Nation by Reli<g ref="char:EOLhyphen"/>gion, Interest and Practice, and Enemy to our Religion and Government, to the weakening and impoveri<g ref="char:EOLhyphen"/>shing of our Nation and the strenghtning and enrich<g ref="char:EOLhyphen"/>ing of our Adversaries.</p>
+            <p n="13">XIII. That she hath procured Farms and Underta<g ref="char:EOLhyphen"/>kings of the several Branches of the Revenue at low<g ref="char:EOLhyphen"/>er Rates than really worth having been bribed for so doing.</p>
+            <p n="14">XIV. That she hath protected several from Justice, and particularly, the Earl of <hi>Ranalagh,</hi> who had chea<g ref="char:EOLhyphen"/>ted, defrauded and abused the King in his Revenues of <hi>Ireland,</hi> supporting him against many representations from the Government of <hi>Ireland,</hi> and many Orders of the King and Council here, full-well knowing severall Articles were in the secret Committee against the said Earl, not only for cheating His Majesty in <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> but for combining with the Earl of <hi>Danby</hi> in <hi>England</hi> to defraud the King, and particularly in the Excise-Farm. undertaken by the <hi>Dashwoods,</hi> and not<g ref="char:EOLhyphen"/>withstanding, such is her Power, she still protects the said Earl, not only from his Accounts; but in his place of Treasurer, which does reflect upon His Ma<g ref="char:EOLhyphen"/>jesty, to keep such a person in place in spight of all the Orders in Council, his own Convictions, and does wholly discourage a Parliament ever to give a supply, when such are imployed, and has procured several Letters, in favour of the said Earl of <hi>Ranalagh</hi> as well to the present as former Governours, to the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nour
+<pb facs="tcp:204790:2"/>of the King, and interruption of Justice.</p>
+            <p n="15">XV. That she got grant in <hi>Ireland,</hi> (in other per<g ref="char:EOLhyphen"/>sons names) as well to Crown Rents, as others, to the great disorder, distraction and vexations of the Subjects. who are liable to have their Estates and Titles questioned and disturbed by Commissions of Enquiry, and otherways, as Officer for the King.</p>
+            <p n="16">XVI. That she procured to her self a Graunt of the Revenues, arising by the Wine Lycenses, towards the defraying of her extravagant Debts, most contrary to the express Letter of the Act of Parliament, which provides most positively: that the Revenues arising therefrom, shall not be imployed or granted to any privat use whatsoever: yet, such was her power with His Majesty and the Earl of <hi>Danby</hi> Late Lord Treasu<g ref="char:EOLhyphen"/>rer, that she procured three able honest Servants to His Majesty, to be turned out of their Commissions in the Wine-License-Office, because they would not lend her Money upon the fecurity of the said Reve<g ref="char:EOLhyphen"/>nue, contrary to the Act of Parliament, above men<g ref="char:EOLhyphen"/>tioned, and such is her power with several of the Commissioners of His Majestys Treasury, that she hath procured Doctor <hi>Taylor</hi> her servant to be made a Commissioner in the new Commission of Wine-Licence-Office, in prejudice of those persons turned out by the Earl of <hi>Danby,</hi> as aforesaid, on purpose that he the said Doctor <hi>Taylor,</hi> should govern that branch of the Revenue (in spight and contempt of an Act of Parliament, appointing it to publick End and Govern<g ref="char:EOLhyphen"/>ment) for the Dutchess use and behalf, neither can it be for any other end and purpose, for that the said Doctor <hi>Taylor,</hi> by reason of the many affairs he has to manage of the Dutchess, cannot attend the Kings Service.</p>
+            <p n="17">XVII. That she hath and doth relieve and coun<g ref="char:EOLhyphen"/>tenance in her Family and Lodgings in <hi>Whitehal,</hi> seve<g ref="char:EOLhyphen"/>ral Servants, whom she knows to be Papists and ill affected to the Protestant Religion and Government, giving them frequent and private access to His Ma<g ref="char:EOLhyphen"/>jesty to the hazard and danger of His Majesties Per<g ref="char:EOLhyphen"/>son, and in a contempt of a late Act of Parliament whereby all. Papist whatsoever (except Father <hi>Huddleston,</hi> seven Women-Servants and some forreign Servants to Her Majesty) were prohibited to come within the Limits of His Majestys Pallace or Court; notwithstanding which Act of Parliament, she hath, and still doth not only relieve in her Lodgings, as aforesaid, several Servants of the Popish persuasion, but she hath lately taken into her service a <hi>French</hi> Papist. whom she formerly preferred to His Majesty, as a Confectioner, and who was entred of His Ma<g ref="char:EOLhyphen"/>jesties Service upon the aforesaid Act, which said Confectioner doth dayly prepare Sweet-meats and other Banquetings (in triumph over the late fresh Act of that Parliament) for His Majesty at her Lodgings, so as His Majesty may be in an eminent danger from the aforesaid <hi>French</hi> Papist, who has such opportu<g ref="char:EOLhyphen"/>nity to poyson His Sacred Majesty (by mixing poyson in the Sweetmeats, whom God long perserve.</p>
+            <p n="18">XVIII. That the day before His Majesty fell sick at <hi>Windsor,</hi> she perswaded His Majes<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y (being then in her Lodgings) to eat a Mess of Broath, prepared by some of her Papist-Servants, whereupon His Ma<g ref="char:EOLhyphen"/>jesty fell immediately sick, it being the Opinion of some Able Physicians, that His Majestys Diseases were much augmented, if not wholly created by the aforesaid Broath.</p>
+            <p n="19">XIX. That during His Majestys sickness, she in<g ref="char:EOLhyphen"/>troduced several unknown persons by a Back-Door to His Majesties Bed-Chamber, who, in all likelihood were <hi>Romish</hi>-Priests, <hi>French</hi> Physicians, Agents or Ministers of the <hi>French</hi> Kings, all which persons could have no honest or lawfull business with His M<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jesty, at that time especially, being privately introduced, and His Majesties proper Servants, belonging to his Bed-Chamber being all sent out, except such as were Po<g ref="char:EOLhyphen"/>pishly affected, her Creatures consequently, and her Foot-Men ordered to wait in the Anti-Chamber, as is judged to prevent any bodys hearing or seeing them, as if they had been of His Majesties Bed-Cham<g ref="char:EOLhyphen"/>ber.</p>
+            <p n="20">XX. That she has by her creatures and friends given out and whispered abroad, that she was mar<g ref="char:EOLhyphen"/>ried to His Majesty, and that her Son the Duke of <hi>Richmond</hi> is His Majesties Legitimate Son, and con<g ref="char:EOLhyphen"/>sequently. Prince of <hi>Wales,</hi> his health being frequent<g ref="char:EOLhyphen"/>ly drunk by her and her Creatures, in her Night-De<g ref="char:EOLhyphen"/>bauches and Merry-Meetings, to the great dishonour and reflection of His Majestys and the manifest pe<g ref="char:EOLhyphen"/>ril and danger of these Kingdoms, who may hereaf<g ref="char:EOLhyphen"/>ter by such false and scandalous Storys and wicked practises be embroyled in distractions if not in Bloud and Civil Wars, to the utter ruine of His Majesties Subjects, and subversion of the Protestant Religion, it being manifest, she being a <hi>Papist</hi> her self, will breed her Son in the same Religion however she may pre<g ref="char:EOLhyphen"/>tend to the contrary.</p>
+            <p n="21">XXI, That she having that high and dishonourable absolute dominion and power over the Kings Heart, she has opportunity to draw from him the secrets of his Government, opportunity by her felf, or other Engines of hers, to poyson, or otherwise, to destroy the King: opportunity, at least, to promote a <hi>French</hi> Popish interest; so that it is not only impossible the Protestant Religion should live; but its not possible, the King can have a due sence of the dangtr, he was, or may be in, from the <hi>Romish</hi> Conspiracy, which has, is, or may be against His Royal Person or Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="22">XXII. That she has had the highest honours and rewards conferred on her and hers, to the high disho<g ref="char:EOLhyphen"/>nour of God, the encouragement of Wickedness and Vice (which by such Examples is overspread the Na<g ref="char:EOLhyphen"/>tion, and for which Gods Anger is kindled and infla<g ref="char:EOLhyphen"/>med against us) suppressing and discouraging of Ver<g ref="char:EOLhyphen"/>tue, whose rewards those high Titles and Honours ought to be, and this to the eternal reproach of His Majesties Reign and Government.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
